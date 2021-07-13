@@ -39,7 +39,7 @@ def jalan(z):
 logo = """
    Asif Javed
    ▄︻̷̿┻̿═━一
-   THE UNKNOWN HACKER TRICKER 
+   THE UNKNOWN TRICKER 
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
    unknown hacker
